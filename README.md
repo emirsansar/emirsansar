@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/lh6uhs8.png)
+![MasterHead](https://i.hizliresim.com/af0od4b.png)
 
 <h2> 
 public class Profile{ <br>
