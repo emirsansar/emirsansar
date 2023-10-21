@@ -16,4 +16,4 @@
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="30" height="30"/> </a>  
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirsansar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=emirsansar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
