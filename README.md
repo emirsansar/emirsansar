@@ -30,5 +30,5 @@
 </p>
 
 <div align="center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emirsansar&layout=donut-vertical&theme=dark" alt="Top Languages" />
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=emirsansar&layout=donut&theme=dark" alt="Top Languages" />
 </div>
