@@ -16,7 +16,7 @@
     <strong>Mobile Development:</strong> <br>
     <img src="https://cdn-icons-png.flaticon.com/512/174/174836.png" alt="android" width="20" height="20"/> 
     Android -> Kotlin 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="20" />
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="20" height="20" /> <br>
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/apple-icon.png" alt="kotlin" width="20" height="20" />
     iOS -> Swift, SwiftUI
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="20" height="20"/><br><br>
